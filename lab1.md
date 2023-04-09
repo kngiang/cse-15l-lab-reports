@@ -7,7 +7,7 @@
 4. If you are using device with a Windows operating system, go to [Git for Windows](https://gitforwindows.org), otherwise skip to step 8
 5. Click the download button
 6. Open the Git .exe file and allow it to install
-7. Once Git is installed, go to [Setting up Git Bash](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) and follow the post's steps
+7. Once Git is installed, go to [Setting up Git Bash](https://stackoverflow.com/questions/42606837/how-do-i-use-bash-on-windows-from-the-visual-studio-code-integrated-terminal/50527994#50527994) and follow the steps in the post
 8. Open a new terminal with Ctrl or Command + \` OR going to the menu at the top of VSCode, clicking Terminal, and clicking New Terminal
 9. Go to [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php) and get your course account username and reset its password to a new password
 10. Go back to VSCode and in the terminal, after the $ symbol, type `ssh` followed by your course account username; it should look something like this: 
@@ -16,6 +16,6 @@
 12. Next, the terminal will ask you for your password, using the password you created from step 9, type in your password and hit enter (the password will not appear as you type, but it is there)
 13. The terminal should look something like this if you were successful:
 <br /> ![Image](successful_ssh.png)
-14. Try running some commands like `ls -lat`, `ls -a`, `cd ~`, `pwd`. Here is an example of what you could see if ran `cd ~` and `ls -a`:
+14. Try running some commands like `ls -lat`, `ls -a`, `cd ~`, `pwd`. Here is an example of what you could see if you ran `cd ~` and `ls -a`:
 <br /> ![Image](command_example.png)
 15. To log out, type `exit` and hit enter OR hit Ctrl + D
