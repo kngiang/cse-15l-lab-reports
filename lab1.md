@@ -16,4 +16,6 @@
 12. Next, the terminal will ask you for your password, using the password you created from step 9, type in your password and hit enter (the password will not appear as you type, but it is there)
 13. The terminal should look something like this if you were successful:
 <br /> ![Image](successful_ssh.png)
-14. 
+14. Try running some commands like `ls -lat`, `ls -a`, `cd ~`, `pwd`. Here is an example of what you could see if ran `cd ~` and `ls -a`:
+<br /> ![Image](command_example.png)
+15. To log out, type `exit` and hit enter or hit Ctrl + D
