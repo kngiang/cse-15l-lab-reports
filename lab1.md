@@ -18,4 +18,4 @@
 <br /> ![Image](successful_ssh.png)
 14. Try running some commands like `ls -lat`, `ls -a`, `cd ~`, `pwd`. Here is an example of what you could see if ran `cd ~` and `ls -a`:
 <br /> ![Image](command_example.png)
-15. To log out, type `exit` and hit enter or hit Ctrl + D
+15. To log out, type `exit` and hit enter OR hit Ctrl + D
