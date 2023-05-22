@@ -1,7 +1,7 @@
 # Lab Report 4
 1. <br />![Image](ssh_login.png)
 
-In order to log in into my remote account, I typed: `ssh cs15lsp23zz@ieng6.ucsd.edu <Enter>`
+In order to log in into my remote account, I typed: `ssh cs15lsp23ma@ieng6.ucsd.edu <Enter>`
 
 2. <br>![Image](git_clone_lab7.png)
 
